@@ -1,0 +1,32 @@
+[
+    {
+        "Organization": "Google",
+        "Project": "https://github.com/kubernetes/kubernetes",
+        "Website": "https://kubernetes.io/",
+        "License": "Apache-2.0 License"
+    },
+    {
+        "Organization": "Facebook",
+        "Project": "https://github.com/facebook/react",
+        "Website": "https://reactjs.org/",
+        "License": "MIT License"
+    },
+    {
+        "Organization": "Elasticsearch",
+        "Project": "https://github.com/elastic/elasticsearch",
+        "Website": "https://www.elastic.co/",
+        "License": "Elastic License 2.0"
+    },
+    {
+        "Organization": "Redhat",
+        "Project": "https://github.com/openshift/origin",
+        "Website": "http://www.openshift.org/",
+        "License": "Apache-2.0 License"
+    },
+    {
+        "Organization": "HashiCorp",
+        "Project": "https://www.terraform.io/",
+        "Website": "https://github.com/hashicorp/terraform",
+        "License": "MPL-2.0 License"
+    }
+]

@@ -1,0 +1,52 @@
+name: generate-artifacts
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - latest
+
+jobs:        
+  generate-dummy-artifacts:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        
+        - name: Create dummy files
+          run: |
+            touch dummy-file-1.json
+            touch dummy-file-2.json
+            touch dummy-file-3.json
+            touch dummy-file-4.json
+            touch dummy-file-5.json
+
+        - name: Upload Dummy file 1
+          uses: actions/upload-artifact@v2
+          with:
+            name: Dummy-file-1
+            path: ${{ github.workspace }}/dummy-file-1.json
+
+        - name: Upload Dummy file 2
+          uses: actions/upload-artifact@v2
+          with:
+            name: Dummy-file-2
+            path: ${{ github.workspace }}/dummy-file-2.json
+
+        - name: Upload Dummy file 3
+          uses: actions/upload-artifact@v2
+          with:
+            name: Dummy-file-3
+            path: ${{ github.workspace }}/dummy-file-3.json
+
+        - name: Upload Dummy file 4
+          uses: actions/upload-artifact@v2
+          with:
+            name: Dummy-file-4
+            path: ${{ github.workspace }}/dummy-file-4.json
+
+        - name: Upload Dummy file 5
+          uses: actions/upload-artifact@v2
+          with:
+            name: Dummy-file-5
+            path: ${{ github.workspace }}/dummy-file-5.json
