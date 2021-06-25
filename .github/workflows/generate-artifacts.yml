@@ -3,7 +3,7 @@ name: generate-artifacts
 on:
   push:
     branches:
-      - master
+      - main
     tags:
       - latest
 
