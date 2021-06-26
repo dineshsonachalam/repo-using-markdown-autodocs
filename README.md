@@ -2,7 +2,7 @@
 
 This repo demonstrates how markdown autodocs works. [View the raw `README.md`](https://raw.githubusercontent.com/DavidWells/repo-using-markdown-autodocs/master/README.md) file to see the comments needed for [`markdown-autodocs`](https://github.com/marketplace/actions/markdown-autodocs) to, well, do it's autodocs.
 
-## Table of contents:
+## Table of contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
 <details>
 <summary>Click to expand</summary>
