@@ -4,7 +4,7 @@ This repo demonstrates how markdown autodocs works. [View the raw `README.md`](h
 
 ## Examples
 #### Table of contents:
-<!-- AUTO-GENERATED-CONTENT:START (TOC) -->
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
 - [Examples](#examples)
     + [Table of contents:](#table-of-contents)
     + [Code block](#code-block)
