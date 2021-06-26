@@ -3,6 +3,12 @@
 This repo demonstrates how markdown autodocs works. [View the raw `README.md`](https://raw.githubusercontent.com/DavidWells/repo-using-markdown-autodocs/master/README.md) file to see the comments needed for [`markdown-autodocs`](https://github.com/marketplace/actions/markdown-autodocs) to, well, do it's autodocs.
 
 ## Examples
+#### Table of contents:
+<!-- AUTO-GENERATED-CONTENT:START (TOC) -->
+Table of contents will be generated here
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+
 #### Code block
 <!-- AUTO-GENERATED-CONTENT:START (CODE:src=./code-that-i-want-in-readme.js) -->
 <!-- The below code snippet is automatically added from ./code-that-i-want-in-readme.js -->
