@@ -7,7 +7,7 @@ This repo demonstrates how markdown autodocs works. [View the raw `README.md`](h
 <details>
 <summary>Click to expand</summary>
 
-- [Table of contents:](#table-of-contents)
+- [Table of contents](#table-of-contents)
 - [Code block](#code-block)
 - [JSON to HTML table](#json-to-html-table)
 - [Artifacts table](#artifacts-table)
