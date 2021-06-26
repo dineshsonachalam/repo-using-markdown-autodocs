@@ -5,11 +5,16 @@ This repo demonstrates how markdown autodocs works. [View the raw `README.md`](h
 ## Examples
 #### Table of contents:
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
+<details>
+<summary>Click to expand</summary>
+
 - [Examples](#examples)
     + [Table of contents:](#table-of-contents)
     + [Code block](#code-block)
     + [JSON to HTML table](#json-to-html-table)
     + [Artifacts table](#artifacts-table)
+
+</details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 
