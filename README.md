@@ -14,7 +14,6 @@ This repo demonstrates how markdown autodocs works. [View the raw `README.md`](h
 <!-- AUTO-GENERATED-CONTENT:START (WORKFLOW_ARTIFACT_TABLE) -->
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-# Test1
 
 
 
