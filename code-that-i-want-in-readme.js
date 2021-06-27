@@ -1,2 +1,2 @@
-alert('Holy snap! This code is automatically added to .md')
-alert('cool!')
+alert('This code is automatically added to .md')
+alert('awesome!')
