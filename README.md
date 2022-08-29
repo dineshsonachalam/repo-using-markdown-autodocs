@@ -22,5 +22,4 @@ alert('awesome!')
 
 ## Github Workflow Artifacts table
 <!-- MARKDOWN-AUTO-DOCS:START (WORKFLOW_ARTIFACT_TABLE) -->
-
 <!-- MARKDOWN-AUTO-DOCS:END -->
